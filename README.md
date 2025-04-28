@@ -5,7 +5,5 @@ Sou cientista social em transição de carreira para Análise de Dados, com expe
 ## 🌟 Projetos em Destaque
 
 ### 1. Análise RFM de Clientes
-[🔗 Ver Projeto](https://github.com/seuusuario/analise-rfm-clientes)
-> Segmentação de clientes com base em Recência, Frequência e Valor, com dashboards interativos no Google Sheets.
-
-
+[🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/segmentacaodados)
+> Segmentação de clientes com base em Recência, Frequência e Valor, com dashboards interativos.
