@@ -9,5 +9,5 @@ Sou cientista social em transição de carreira para Análise de Dados, com expe
 > Segmentação de clientes com base em Recência, Frequência e Valor, com dashboards interativos.
 
 ### 2. Análise Exploratória e validação de hipóteses baseadas na preferência musical de usuários da plataforma de streamings Spotify
-[🔗 Ver Projeto]((https://github.com/gabrielacalbuquerque/valid-hipoteses))
+[🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/valid-hipoteses)
 > Validação de hipóteses através da análise de dados e fornecimento de recomendações estratégicas com base nas descobertas, com dashboards interativos.
