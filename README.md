@@ -1,6 +1,17 @@
-# Portfólio de Análise de Dados – Gabriela
+# Portfólio de Análise de Dados | Gabriela Albuquerque
 
-Sou cientista social em transição de carreira para Análise de Dados, com experiência em pesquisa qualitativa e foco em transformar dados em insights estratégicos.
+Bem-vindo(a) ao meu portfólio de projetos em Análise de Dados!  
+Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiência em análise qualitativa, atualmente em transição para a área de dados. Aqui compartilho projetos que desenvolvi utilizando ferramentas como SQL, Python, Power BI, Excel e técnicas estatísticas para gerar insights e apoiar a tomada de decisão baseada em dados.
+
+---
+
+## Sobre Mim
+
+- Doutoranda em Antropologia pela UFPE
+- Participante dos programas EY Empodera, Laboratória+ e PrograMaria
+- Formação complementar em Análise de Dados (Google, Preditiva AI)
+- Interesses: dados sociais, comportamento do consumidor, equidade de gênero e dados públicos
+
 
 ## 🌟 Projetos em Destaque
 
