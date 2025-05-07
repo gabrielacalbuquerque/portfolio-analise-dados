@@ -1,6 +1,7 @@
 # Portfólio de Análise de Dados | Gabriela Albuquerque
 
 Bem-vindo(a) ao meu portfólio de projetos em Análise de Dados!  
+
 Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiência em análise qualitativa, atualmente em transição para a área de dados. Aqui compartilho projetos que desenvolvi utilizando ferramentas como SQL, Python, Power BI, Excel e técnicas estatísticas para gerar insights e apoiar a tomada de decisão baseada em dados.
 
 ---
