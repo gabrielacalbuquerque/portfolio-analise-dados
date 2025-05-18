@@ -23,3 +23,7 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 ### 2. Análise Exploratória e validação de hipóteses baseadas na preferência musical de usuários da plataforma de streamings Spotify
 [🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/valid-hipoteses)
 > Validação de hipóteses através da análise de dados e fornecimento de recomendações estratégicas com base nas descobertas, com dashboards interativos.
+
+### 3. Análise de Vendas de Veículos: Transformando dados brutos em insights estratégicos
+[🔗 Ver Projeto]()
+> extrair métricas financeiras relevantes, identificar padrões de mercado e fornecer recomendações estratégicas baseadas em dados, com dashboards interativos.
