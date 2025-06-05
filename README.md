@@ -25,7 +25,7 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 > Validação de hipóteses através da análise de dados e fornecimento de recomendações estratégicas com base nas descobertas, com dashboards interativos.
 
 
-### 3. Análise de risco de crédito do banco "Super Caja"
+### 3. Análise de risco de crédito 
 [🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/analise-risco-credito/)
 > Identificar o perfil de clientes com risco de inadimplência, montar uma pontuação de crédito através da análise de dados e avaliar o risco relativo, possibilitando assim, classificar os clientes e futuros clientes em diferentes categorias de risco com base na sua probabilidade de inadimplência.
 
