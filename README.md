@@ -30,5 +30,5 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 > Identificar o perfil de clientes com risco de inadimplência, montar uma pontuação de crédito através da análise de dados e avaliar o risco relativo, possibilitando assim, classificar os clientes e futuros clientes em diferentes categorias de risco com base na sua probabilidade de inadimplência.
 
 ### 4. Análise de Diversidade em TI no Brasil em 2022
-[🔗 Ver Projeto]()
+[🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/diversidade-tecnologia)
 > Análise de dados sobre o perfil deprofissionais de tecnologia no Brasil, com foco em diversidade e inclusão. O projeto investiga a distribuição de gênero, etnia e pessoas com deficiência (PCD) em diferentes níveis de senioridade, faixas salariais e regiões do país.
