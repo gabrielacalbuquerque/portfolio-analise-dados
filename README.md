@@ -9,7 +9,7 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 ## Sobre Mim
 
 - Doutoranda em Antropologia pela UFPE
-- Participante dos programas EY Empodera, Laboratória+ e PrograMaria
+- Participante do programa de formação em Análise de dados da Laboratória +
 - Formação complementar em Análise de Dados (Google, Preditiva AI)
 - Interesses: dados sociais, comportamento do consumidor, equidade de gênero e dados públicos
 
@@ -29,3 +29,6 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 [🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/analise-risco-credito/)
 > Identificar o perfil de clientes com risco de inadimplência, montar uma pontuação de crédito através da análise de dados e avaliar o risco relativo, possibilitando assim, classificar os clientes e futuros clientes em diferentes categorias de risco com base na sua probabilidade de inadimplência.
 
+### 4. Análise de Diversidade em TI no Brasil em 2022
+[🔗 Ver Projeto]()
+> Análise de dados sobre o perfil deprofissionais de tecnologia no Brasil, com foco em diversidade e inclusão. O projeto investiga a distribuição de gênero, etnia e pessoas com deficiência (PCD) em diferentes níveis de senioridade, faixas salariais e regiões do país.
