@@ -32,3 +32,7 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 ### 4. Análise de Diversidade em TI no Brasil em 2022
 [🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/diversidade-tecnologia)
 > Análise de dados sobre o perfil deprofissionais de tecnologia no Brasil, com foco em diversidade e inclusão. O projeto investiga a distribuição de gênero, etnia e pessoas com deficiência (PCD) em diferentes níveis de senioridade, faixas salariais e regiões do país.
+
+### 5. Análise de dados e teste de hipóteses Amazon
+[🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/projeto-amazon/)
+> Este projeto teve como objetivo principal analisar o impacto do desconto na satisfação do cliente, identificar padrões nas avaliações de produtos e destacar os fatores que influenciam a satisfação, fornecendo insights acionáveis para otimizar o desempenho na plataforma.
