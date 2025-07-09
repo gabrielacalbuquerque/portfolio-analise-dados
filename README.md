@@ -36,3 +36,7 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 ### 5. Análise de dados e teste de hipóteses Amazon
 [🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/projeto-amazon/)
 > Este projeto teve como objetivo principal analisar o impacto do desconto na satisfação do cliente, identificar padrões nas avaliações de produtos e destacar os fatores que influenciam a satisfação, fornecendo insights acionáveis para otimizar o desempenho na plataforma.
+
+### 6. Projeto de Implementação de Sistema ETL
+[🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/rotadadosetl/)
+> Este projeto aborda um desafio clássico de engenharia de dados: transformar uma base de dados de vendas bruta e desestruturada em um modelo de dados relacional e otimizado.
