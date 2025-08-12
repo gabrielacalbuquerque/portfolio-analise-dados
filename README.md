@@ -40,3 +40,15 @@ Sou cientista social, antropóloga e pesquisadora com mais de 7 anos de experiê
 ### 6. Projeto de Implementação de Sistema ETL
 [🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/rotadadosetl/)
 > Este projeto aborda um desafio clássico de engenharia de dados: transformar uma base de dados de vendas bruta e desestruturada em um modelo de dados relacional e otimizado.
+
+### 7. Análise de Business Intelligence no mercado de AirBnb em Nova York
+[🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/BI-airbnb)
+> Este projeto foca na exploração e análise de dados sobre a disponibilidade de quartos no Airbnb em Nova York. Utilizando ferramentas e conceitos de Business Intelligence (BI), o objetivo é revelar padrões de mercado, identificar oportunidades para anfitriões e aprimorar a tomada de decisões estratégicas.
+
+### 8. Modelo Preditivo de Rotatividade de Funcionários
+[🔗 Ver Projeto](https://github.com/gabrielacalbuquerque/machine-learning-rh)
+> Desenvolver um modelo de aprendizado de máquina supervisionado para prever com alta precisão a probabilidade de um funcionário deixar a organização (Attrition).
+O objetivo é permitir que o departamento de RH tome ações proativas para a retenção de talentos.
+
+
+
